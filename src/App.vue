@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <heading-navbar/>
-
+<!-- home-page  element would be replaced by a router component if this were built into a full site -->
     <home-page/>
     <footer-component/>
   </div>
