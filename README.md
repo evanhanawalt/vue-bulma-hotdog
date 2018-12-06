@@ -2,7 +2,7 @@
 
 Front end development test + learning vue.js
 
-Created based on challenge mockup from [Dyanmit](https://github.com/Dynamit/front-end-code-day/tree/master/hotdog)
+Created based on challenge mockup from [Dynamit](https://github.com/Dynamit/front-end-code-day/tree/master/hotdog)
 
 
 # Notes
